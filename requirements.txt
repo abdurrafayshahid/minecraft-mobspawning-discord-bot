@@ -1,0 +1,8 @@
+discord.py
+discord-ext-voice-recv
+PyNaCl
+faster-whisper
+numpy
+mcrcon
+torch
+torchaudio
